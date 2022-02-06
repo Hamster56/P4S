@@ -65,13 +65,13 @@
 
 |Ability |Time |Hamster |Yui |
 | --- | --- | --- | --- |
-|Searing Stream   |0:10||Yui Reprisal and Heart of Light |
-|Searing Stream   |0:35|Hamster Reprisal and Dark Missionary ||
-|Ultimate Impulse |2:02||Yui Reprisal and Heart of Light|
-|Searing Stream   |3:38|Hamster Reprisal and Dark Missionary||
-|Searing Stream   |3:55||Yui Reprisal and Heart of Light|
+|Searing Stream   |0:10||Reprisal and Heart of Light |
+|Searing Stream   |0:35|Reprisal and Dark Missionary ||
+|Ultimate Impulse |2:02||Reprisal and Heart of Light|
+|Searing Stream   |3:38|Reprisal and Dark Missionary||
+|Searing Stream   |3:55||Reprisal and Heart of Light|
 |Ultimate Impulse |4:28|Lol||
-|Searing Stream   |4:45|Hamster Reprisal and Dark Missionary||
-|Searing Stream   |6:00||Yui Reprisal and Heart of Light|
-|Ultimate Impulse |7:13|Hamster Reprisal and Dark Missionary||
-|Ultimate Impulse |8:03||Yui Reprisal and Heart of Light|
+|Searing Stream   |4:45|Reprisal and Dark Missionary||
+|Searing Stream   |6:00||Reprisal and Heart of Light|
+|Ultimate Impulse |7:13|Reprisal and Dark Missionary||
+|Ultimate Impulse |8:03||Reprisal and Heart of Light|
