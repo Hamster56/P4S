@@ -32,11 +32,11 @@
 
 - Start: With tether tower
 - Move: Clockwise 1 position
-- Dark: Stay, grab tower, then move south. Pop tethers in order
-  1. (NW)
-  2. (NE)
-  3. (SE)
-  4. (SW)
+- Dark: Stay, grab tower, then move south. Pop tethers in order while rotating clockwise around the boss
+  1. NE
+  2. SE
+  3. SW
+  4. NW
 - Blue: Cross to opposite side, wait for Searing Wind, then pop tether
 
 ## Akanthai Finale:
@@ -54,15 +54,15 @@
 
 ### Near/Farsight 1:10
 
-Shadow Wall + Oblation + TBN
+Living Dead
 
 ### Demigod Double 1:32
 
-Dark Mind + Rampart + Oblation + TBN
+Shadow Wall + Dark Mind + Rampart + Oblation + TBN
 
 ### Near/Farsight 3:07
 
-Shadow Wall + Oblation + Dark Mind + Rampart + TBN
+Oblation + Dark Mind + Rampart + TBN
 
 ### Heartstake 3:21
 
@@ -75,3 +75,45 @@ Shadow Wall + Oblation + Dark Mind + Rampart + TBN
 ### Demigod Double 6:14
 
 Living Dead
+
+# Raid Damage
+
+### Searing Stream 0:10
+
+Yui Reprisal and Heart of Light
+
+### Searing Stream 0:35
+
+Hamster Reprisal and Dark Missionary
+
+### Ultimate Impulse 2:02
+
+Yui Reprisal and Heart of Light
+
+### Searing Stream 3:38
+
+Hamster Reprisal and Dark Missionary
+
+### Searing Stream 3:55
+
+Yui Reprisal and Heart of Light
+
+### Ultimate Impulse 4:28
+
+Lol
+
+### Searing Stream 4:45
+
+Hamster Reprisal and Dark Missionary
+
+### Searing Stream 6:00
+
+Yui Reprisal and Heart of Light
+
+### Ultimate Impulse 7:13
+
+Hamster Reprisal and Dark Missionary
+
+### Ultimate Impulse 8:03
+
+Yui Reprisal and Heart of Light
