@@ -68,10 +68,10 @@
 |Searing Stream   |0:10||Reprisal + Heart of Light |
 |Searing Stream   |0:35|Reprisal + Dark Missionary ||
 |Ultimate Impulse |2:02||Reprisal + Heart of Light|
-|Searing Stream   |3:38|||
-|Searing Stream   |3:55||Reprisal + Heart of Light|
+|Searing Stream   |3:38||Reprisal + Heart of Light|
+|Searing Stream   |3:55|||
 |Ultimate Impulse |4:28|Reprisal + Dark Missionary||
-|Searing Stream   |4:45|Reprisal + Dark Missionary||
+|Searing Stream   |4:45||Reprisal + Heart of Light|
 |Searing Stream   |6:00||Reprisal + Heart of Light|
 |Ultimate Impulse |7:13|Reprisal + Dark Missionary||
 |Ultimate Impulse |8:03||Reprisal + Heart of Light|
