@@ -100,13 +100,13 @@
 
 # Raid Damage
 
-|Ability          |Time|Hamster                     |Yui                        |
-| ---             |--- | ---                        | ---                       |
-|Searing Stream   |0:10|                            |Reprisal + Heart of Light  |
-|Searing Stream   |0:35|Reprisal + Dark Missionary  |                           |
-|Ultimate Impulse |2:02|                            |Reprisal + Heart of Light  |
-|Searing Stream   |3:38|                            |Reprisal + Heart of Light  |
-|Searing Stream   |3:55|                            |                           |
+|Ability          |Time|Hamster                     |Yui                        |Party                                       |
+| ---             |--- | ---                        | ---                       | ---                                        |
+|Searing Stream   |0:10|                            |Reprisal + Heart of Light  |Pre-pull deploy                             |
+|Searing Stream   |0:35|Reprisal + Dark Missionary  |                           |Feint, Addle, Samba, Soil                   |
+|Ultimate Impulse |2:02|                            |Reprisal + Heart of Light  |Soil, Addle, Temperance                     |
+|Searing Stream   |3:38|                            |Reprisal + Heart of Light  |Feint, Samba, Fey Illumination              |
+|Searing Stream   |3:55|                            |                           |Addle, Fey Illumination, Expedience, Seraph |
 |Ultimate Impulse |4:28|Reprisal + Dark Missionary  |                           |
 |Searing Stream   |4:45|                            |Reprisal + Heart of Light  |
 |Searing Stream   |6:00|                            |Reprisal + Heart of Light  |
